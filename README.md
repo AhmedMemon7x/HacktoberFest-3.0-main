@@ -1,13 +1,13 @@
-# 🚀 HacktoberFest-Hackathon 2025 
+# 🚀 HacktoberFest-Hackathon 2026 
 
-Welcome to the **HacktoberFest-Hackathon 2025**! 🎉  
+Welcome to the **HacktoberFest-Hackathon 2026**! 🎉  
 This repository is the central workspace for all participants to collaborate, code, and submit their projects. Read the instructions carefully to understand the workflow and rules for the event.
 
 ---
 
 ## 🏁 Introduction
 
-The **Hackathon 2025** brings together creative developers, designers, and innovators to solve real-world problems through technology.  
+The **Hackathon 2026** brings together creative developers, designers, and innovators to solve real-world problems through technology.  
 Your goal is to design, develop, and deliver a working solution.
 
 - **Format:** Team-based hackathon  
